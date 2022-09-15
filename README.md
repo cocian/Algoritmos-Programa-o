@@ -1,2 +1,2 @@
-# Algoritmos-Programa-o
+# AlgoritmosProgramacao
 Algoritmos&amp;Programação
